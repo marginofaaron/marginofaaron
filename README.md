@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marginofaaron
 - 👀 I’m interested in data science and visualization
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R and SQL
 - 📫 How to reach me: aaroneolson@protonmail.com
 
 <!---
