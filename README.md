@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marginofaaron
 - 👀 I’m interested in data science and visualization
-- 🌱 I’m currently learning R and SQL
-- 📫 How to reach me: aaroneolson@protonmail.com
+- 📫 How to reach me: aaroneolson@pm.me
 
 <!---
 marginofaaron/marginofaaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
